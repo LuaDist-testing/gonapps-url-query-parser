@@ -18,4 +18,4 @@ queryParser.parse(queryString, parameters)
 local parameters2 = queryParser.parse(queryString)
 ```
 ## License
-LGPLv3
+Mozilla Public License 2.0
